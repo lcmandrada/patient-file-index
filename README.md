@@ -1,6 +1,6 @@
 # Patient File Index
 
-**Legacy Project
+**Legacy Project**
 
 A basic console application written in c++ with the following objectives:
 - to store patient files (filestream)
